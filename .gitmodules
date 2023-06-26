@@ -1,0 +1,3 @@
+[submodule "NorbitBugTracker"]
+	path = NorbitBugTracker
+	url = git@github.com:A1Asriel/NorbitBugTracker.git
