@@ -4,3 +4,6 @@
 [submodule "nbtwebfrontend"]
 	path = nbtwebfrontend
 	url = git@github.com:A1Asriel/nbtwebfrontend.git
+[submodule "NorbitBugTrackerRewrite"]
+	path = NorbitBugTrackerRewrite
+	url = git@github.com:A1Asriel/NorbitBugTrackerRewrite.git
